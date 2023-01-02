@@ -1,0 +1,24 @@
+.bioangecap {
+	margin-bottom: 2px;
+	color: white;
+	background-color: rgba(	8,8,8, 0.4);
+}
+
+.bioangetab, .bioangecap, .bioangetr, .bioangeth, .bioangedroite {
+	border: 1px solid black;
+}
+.bioangedroite{
+	color: white;
+	background-color: rgba(	8,8,8, 0.4);
+}
+.bioangeth{
+	color: white;
+	background-color: rgba(	8,8,8, 0.4);
+}
+.bioangetab {
+	border-collapse: collapse;
+	margin-top: 10px;
+}
+.bioangetr{
+	  padding-left : 500px;
+}

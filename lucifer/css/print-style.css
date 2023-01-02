@@ -1,0 +1,29 @@
+body {
+  background-color :#fff;
+  font-family :Serif;
+  font-size :15pt;
+}
+
+
+h1 {
+  margin :0;
+  padding :0;
+  text-indent :0;
+  line-height :25pt;
+  font-size :25pt;
+}
+
+p, strong, mark, .bioangedroite {
+  color: black;
+}
+section{
+  padding-bottom: 45px;
+}
+
+header {
+display :none;
+}
+
+footer{
+display :none;
+}

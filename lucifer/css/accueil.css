@@ -1,0 +1,60 @@
+.sectionaccueil {
+	background-color: rgba(	8,8,8, 0.4);
+	width: 80%;
+}
+ aside {
+    width: 20%;
+    height: 400px;
+	background-color: rgba(0, 0, 0, 0.5);
+    border : 2px solid white;
+    top : 252px;
+    right: 0;
+    position: fixed;
+    text-align: center;
+    list-style: none;
+    border-radius: 20% 0% 0% 20%;
+}
+aside ol li {
+
+    list-style : none;
+    padding-top:  7%;
+}
+aside ol li a{
+
+    text-decoration: none;
+    color: rgba(200, 200, 200, 0.5);
+    font-size: 135%;
+}
+
+.liensaison:hover{
+	color: orange;
+	border-bottom: 2px solid gold;
+}
+
+.relative {
+ 	border: 2px;
+ 	position: relative;
+ 	left: 20px;
+ 	top: 0px;
+ }
+ h4 {
+    color: blue;
+ }
+.réseau{
+	width: 10%;
+	top: 100px;
+    height: 150px;
+	background-color: rgba(0, 0, 0, 0.5);
+    border : 2px solid white;
+    right: 0;
+    position: fixed;
+    text-align: center;
+    list-style: none;
+}
+.lienréseaux:hover{
+	color: orange;
+	border-bottom: 2px solid gold;
+}
+.liens:hover{
+    color: blue;
+}

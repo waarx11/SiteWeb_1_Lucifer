@@ -1,0 +1,37 @@
+.photosfi {
+	border: thin #c0c0c0 solid;
+	display: flex;
+    flex-flow: column;
+    width: 215px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+.image{
+	margin: 30px;
+	margin-left: 81px;
+	margin-right: 81px;
+	width: 200px;
+}
+.photosim{
+	max-width: 300px;
+	max-height: 300px;
+}
+.sectionphoto{
+	background-color: rgba(	8,8,8, 0.4);
+}
+.divphoto{
+	padding-left: 0px;
+    padding-right: 0px;
+	max-width: 100%;
+	margin: 15px;
+	margin-left: 50px; 
+ 	 display: flex;
+}
+
+.photosfig {
+	background-color: #222;
+	color: #fff;
+	font: italic smaller sans-serif;
+	padding: 3px;
+	text-align: center;
+}
